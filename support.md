@@ -4,7 +4,7 @@ Need help with AI Agents 101? You're in the right place.
 
 ## Contact Us
 
-**Email:** [cengiz.oger@gmail.com](mailto:cengiz.oger@gmail.com)
+**Email:** [aiagents101.app@gmail.com](mailto:aiagents101.app@gmail.com)
 
 We typically respond within 24–48 hours.
 

@@ -39,4 +39,4 @@ If this policy changes, the updated version will be posted here with a revised "
 
 ## Contact
 
-Questions about this policy? Email **[cengiz.oger@gmail.com](mailto:cengiz.oger@gmail.com)**.
+Questions about this policy? Email **[aiagents101.app@gmail.com](mailto:aiagents101.app@gmail.com)**.
