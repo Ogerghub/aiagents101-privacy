@@ -1,6 +1,6 @@
 # Privacy Policy — AI Agents 101
 
-**Last updated:** July 19, 2026
+**Last updated:** July 27, 2026
 
 AI Agents 101 ("the App") is developed by Cengiz Oger. This privacy policy explains what data the App collects and how it is handled.
 
