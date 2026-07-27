@@ -1,6 +1,6 @@
 # AI Agents 101
 
-An interactive field guide to how AI agents and language models actually work — hands-on, honest, and fully offline. *Learn from the source, not the hype.*
+An interactive field guide to how AI agents and language models actually work — hands-on and fully offline. *Learn from the source, not the hype.*
 
 - 📄 [Privacy Policy](./privacy-policy)
 - 💬 [Support & FAQ](./support)
